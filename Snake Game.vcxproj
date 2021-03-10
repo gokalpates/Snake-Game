@@ -31,7 +31,7 @@
     <ClCompile Include="source\Snake.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="source\README.md" />
+    <None Include="README.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

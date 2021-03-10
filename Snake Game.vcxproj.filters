@@ -43,6 +43,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="source\README.md" />
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
