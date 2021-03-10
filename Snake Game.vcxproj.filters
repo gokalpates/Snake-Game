@@ -42,4 +42,7 @@
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="source\README.md" />
+  </ItemGroup>
 </Project>
